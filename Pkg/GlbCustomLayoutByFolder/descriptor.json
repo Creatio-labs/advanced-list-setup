@@ -1,0 +1,16 @@
+﻿{
+  "Descriptor": {
+    "UId": "3bc088dd-23ab-4f67-8d9a-411db39080f6",
+    "PackageVersion": "1.0.0",
+    "Name": "GlbCustomLayoutByFolder",
+    "ModifiedOnUtc": "\/Date(1536670179000)\/",
+    "Maintainer": "Creatio Labs",
+    "DependsOn": [
+      {
+        "UId": "a7d9c356-450c-46d7-bc85-72dca4e280ba",
+        "PackageVersion": "7.8.0",
+        "Name": "NUI"
+      }
+    ]
+  }
+}

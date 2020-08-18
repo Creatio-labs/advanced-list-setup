@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Подписаться на обновление ленты" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Отписаться от обновлений ленты" />
+		</Items>
+	</Group>
+</Resources>
